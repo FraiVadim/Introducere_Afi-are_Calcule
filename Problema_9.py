@@ -1,0 +1,9 @@
+a=int(input("introdu prima cifra: "))
+b=int(input("introdu a doua cifra: "))
+c=int(input("introdu a treia cifra: "))
+s1=a+b
+s2=a+c
+s3=c+b
+print (a,"+",b,"=",s1)
+print (a,"+",c,"=",s2)
+print (c,"+",b,"=",s3)
